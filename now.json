@@ -15,7 +15,7 @@
     },
     {
       "src": "bin/slackin.js",
-      "use": "@now/node-server"
+      "use": "@vercel/node"
     }
   ],
   "routes": [
